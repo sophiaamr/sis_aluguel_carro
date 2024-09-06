@@ -14,7 +14,7 @@ O sistema está sendo desenvolvido como parte da disciplina de Laboratório de D
 
 ### Histórias de Usuário
 
-* Usuário
+* **Usuário**
 #### US01 - Cadastro
 Eu como usuário, quero fazer o cadastro prévio, para que eu possa utilizar o sistema de forma rápida e eficiente.
 
@@ -23,7 +23,7 @@ Eu como usuário, quero fazer o login, para que eu possa usufruir as funcionalid
 
 
 
-* Clientes
+* **Clientes**
 
 #### US03 - Criação de Pedidos de Aluguel
 Eu como cliente, quero introduzir pedidos de aluguel, para que eu possa reservar um automóvel que atenda às minhas necessidades.
@@ -39,7 +39,7 @@ Eu como cliente, quero cancelar pedidos de aluguel, para que eu possa desistir d
 
 
 
-* Agentes
+* **Agentes**
 #### US07 - Modificação de Pedidos de Aluguel 
 Eu como agente, quero modificar pedidos de aluguel, para se adequar a disponibilidade dos automóveis.
 
