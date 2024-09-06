@@ -20,8 +20,16 @@ O sistema está sendo desenvolvido como parte da disciplina de Laboratório de D
 
 ### Diagrama de Caso de Uso
 
+<div>
+ <img src="docs/Diagrama de Caso de Uso - LAB2.jpg" width="76%">
+</div>
+
 ### Diagrama de Classe
 
+
+<div>
+ <img src="docs/Diagrama de Classe - LAB2.jpg" width="76%">
+</div>
 ### Diagrama de Pacotes
 
 ### Diagrama de Componente
