@@ -67,6 +67,9 @@ Eu como agente, quero registrar veículos, para que eu possa adicionar novos aut
 
 
 ### Diagrama de Pacotes
+<div>
+ <img src="docs/Diagrama de Pacote LAB2.png" width="76%">
+</div>
 
 ### Diagrama de Componente
 
