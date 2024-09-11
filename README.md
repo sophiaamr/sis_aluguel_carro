@@ -14,9 +14,9 @@ O sistema está sendo desenvolvido como parte da disciplina de Laboratório de D
 
 ### Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando uma combinação de tecnologias modernas que garantem um sistema eficiente, escalável e responsivo. As principais tecnologias empregadas são:
-* Javascript
-* Nodejs express
-* EJS
+* Java
+* SpringBoot
+* HTML
 * CSS
 
 ***
